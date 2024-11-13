@@ -14,7 +14,7 @@ tn /=10;
 if(num==no)
 printf("%d is armstrong no",no);
 else
-printf("%d is not a.n",no);
+printf("%d is not an armstrong no",no);
 
 return 0;
 }
